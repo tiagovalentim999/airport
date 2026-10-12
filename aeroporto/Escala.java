@@ -1,2 +1,4 @@
-package aeroporto;public class Escala {
+package aeroporto;
+
+public class Escala {
 }

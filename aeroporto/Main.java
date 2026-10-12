@@ -1,2 +1,8 @@
-package aeroporto;public class Main {
+package aeroporto;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+    }
 }

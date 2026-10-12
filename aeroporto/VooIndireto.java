@@ -1,2 +1,4 @@
-package aeroporto;public class VooIndireto {
+package aeroporto;
+
+public class VooIndireto {
 }
