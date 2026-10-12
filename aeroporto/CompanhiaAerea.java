@@ -1,11 +1,11 @@
 package aeroporto;
 
-public class CompaniaAerea {
+public class CompanhiaAerea {
 
     private String nome;
     private double lucro;
 
-    public CompaniaAerea(String nome, double lucro){
+    public CompanhiaAerea(String nome, double lucro){
         this.nome = nome;
         this.lucro = lucro;
     }
