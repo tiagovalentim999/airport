@@ -1,4 +1,4 @@
-    package aeroporto;
+package aeroporto;
 
 import java.time.LocalTime;
 

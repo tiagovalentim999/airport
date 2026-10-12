@@ -26,12 +26,26 @@ public abstract class Voo {
 
     public abstract double calcularCusto();
 
-    public String getNumeroVoo() { return numeroVoo; }
-    public String getPortaEmbarque() { return portaEmbarque; }
-    public double getCustoCliente() { return custoCliente; }
-    public LocalTime getHoraPartida() { return horaPartida; }
-    public CompanhiaAerea getCompanhia() { return companhia; }
-    public Aeroporto getDestino() { return destino; }
-    public Aeronave getAeronave() { return aeronave; }
+    public String getNumeroVoo() {
+        return numeroVoo;
+    }
+    public String getPortaEmbarque() {
+        return portaEmbarque;
+    }
+    public double getCustoCliente() {
+        return custoCliente;
+    }
+    public LocalTime getHoraPartida() {
+        return horaPartida;
+    }
+    public CompanhiaAerea getCompanhia() {
+        return companhia;
+    }
+    public Aeroporto getDestino() {
+        return destino;
+    }
+    public Aeronave getAeronave() {
+        return aeronave;
+    }
 
 }

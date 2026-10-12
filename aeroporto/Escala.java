@@ -12,8 +12,14 @@ public class Escala {
         this.embarque = embarque;
     }
 
-    public VooIndireto getVoo() { return voo; }
-    public Aeroporto getAeroporto() { return aeroporto; }
-    public boolean isEmbarque() { return embarque; }
+    public VooIndireto getVoo() {
+        return voo;
+    }
+    public Aeroporto getAeroporto() {
+        return aeroporto;
+    }
+    public boolean isEmbarque() {
+        return embarque;
+    }
 
 }
